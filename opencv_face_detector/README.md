@@ -7,3 +7,7 @@
 - [ ] applying the mask
 
 - [ ] changing the color of mask
+
+
+
+

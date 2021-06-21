@@ -12,6 +12,8 @@ This repository will provide you source code and comparison of face detection wi
 
 ## TO DO
 
+[![github-stars](https://img.shields.io/github/stars/user/repo?style=social&logo=github)](https://github.com/Asadullah-Dal17/Face_Detection_Projects)
+
 - [ ] Opencv-python face detector
 
 - [ ] Dlib Face detector
